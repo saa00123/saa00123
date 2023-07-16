@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center"> 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
-<!--
-**saa00123/saa00123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  :wave: Welcome my github profile !
 
-Here are some ideas to get you started:
+ <br/>
+ <br/>
+  
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:row;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-#3178C6?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-#764ABC?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-#DB7093?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCSS-##06B6D4?style=for-the-badge&logo=JavaScript&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/>
+ <br/>
+
+![saa00123's github stats](https://github-readme-stats.vercel.app/api?username=saa00123&show_icons=true)
+
+</div>
