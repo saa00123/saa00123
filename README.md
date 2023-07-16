@@ -1,7 +1,5 @@
 <div align="center"> 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=welcome&fontSize=90)
-
-####  :wave: Welcome my github profile !
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
  <br/>
  <br/>
@@ -9,11 +7,11 @@
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-#3178C6?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-#764ABC?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/styledcomponents-#DB7093?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/TailwindCSS-##06B6D4?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/react-#61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/redux-#764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-#DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-##06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 
  <br/>
