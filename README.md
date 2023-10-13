@@ -16,6 +16,5 @@
  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
  <br/>
  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
- <img src="https://img.shields.io/badge/zeplin-4E5EE4?style=for-the-badge&logo=zeplin&logoColor=white">
 </div>
 </div>
